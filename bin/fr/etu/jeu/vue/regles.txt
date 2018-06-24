@@ -1,0 +1,15 @@
+Nul besoin de jumelles pour ce safari là, car au lieu de trouver les animaux,
+il vous faudra les cacher! Rhinocéros, éléphants, gazelles, zèbres et lions 
+sollicitent votre esprit de déduction pour réussir ces épreuves.
+Chaque défi (à choisir selon le niveau des joueurs) vous informe des SEULES
+illustrations qui doivent rester visibles sur votre plateau de jeu. 
+Il vous suffit donc de placer correctement les 4 pièces "végétation" afin
+de cacher les autres dessins. 
+Mais attention, ces pièces sont toutes de formes différentes...
+
+4 Niveaux évolutifs sont à découvrir. 
+Un défi peut avoir une unique solution ou plusieurs solutions possibles.
+Le bouton "Valider" permet de comparer sa solution avec la solution la plus proche actuellement
+Le bouton "Corriger" permet d'afficher une correction des "végétations" au bon endroit
+
+But du jeu : Poser les 4 pièces de jeu afin de ne faire apparaître QUE les illustrations demandées
